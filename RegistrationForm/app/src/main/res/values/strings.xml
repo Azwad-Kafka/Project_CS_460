@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="topText">Welcome to Registration Form</string>
+    <string name="btn_sub">Submit</string>
+</resources>
